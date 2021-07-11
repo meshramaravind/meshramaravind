@@ -1,6 +1,6 @@
 ### Hi there, I'm Arvind 👋
 
-<h3 align="center">A Passionate Android Developer</h3>
+<h3 align="left">A Passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshramaravind&label=Profile%20views&color=0e75b6&style=flat" alt="meshramaravind" /> </p>
 
