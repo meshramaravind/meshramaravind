@@ -2,12 +2,13 @@
 ### A Passionate Android Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshramaravind&label=Profile%20views&color=0e75b6&style=flat" alt="meshramaravind" /> </p>
-- 🔭 I’m currently working on Harrier Information Systems Pvt. Ltd.
+
+- 💻 I’m currently working on Harrier Information Systems Pvt. Ltd..
 - 🌱 I’m currently learning **Flutter, Jetpack Compose**
 - 👨‍💻 #SelfTaught Developer.
-- 💬 Ask me about **Java, Kotlin, Android**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, Android**
 - 📫 How to reach me **meshramaravind@gmail.com**
-- Loves 🎵 and 🎞 .
+- Loves 🎵 and 🎞 
 
 ### Know more about me
 <a href="https://twitter.com/meshramaravind1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meshramaravind1" height="30" width="40" /></a>
