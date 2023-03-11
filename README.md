@@ -6,7 +6,7 @@
 - 💻 I’m currently working on **Mydhan Technologies Private Limited..**
 - 🌱 I’m currently learning **Jetpack Compose, KMM(Kotlin Multiplatform Mobile), Flutter..**
 - 👨‍💻 #SelfTaught Developer.
-- 💬 Ask me about **Java, Kotlin, Jetpack Compose, Android**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, Dart, Flutter , Android**
 - 📫 How to reach me **meshramaravind@gmail.com**
 - Loves 🎵 and 🎞 
 
