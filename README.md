@@ -6,7 +6,7 @@
 - 💻 I’m currently working on **Currently I am looking for a job change..**
 - 🌱 I’m currently learning **KMM(Compose Multiplatform Mobile)**
 - 👨‍💻 #SelfTaught Developer.
-- 💬 Ask me about **Android, Java, Kotlin, Jetpack Compose, Dart, Flutter ,**
+- 💬 Ask me about **Android, Java, Kotlin, Jetpack Compose, Flutter, Dart **
 - 📫 How to reach me **meshramaravind@gmail.com**
 - Loves 🎵 and 🎞 
 
